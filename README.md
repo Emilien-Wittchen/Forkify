@@ -3,3 +3,6 @@
 Recipe application with custom recipe uploads
 
 You can preview this site [here](https://forkify-emilien-wittchen.netlify.app/).
+
+## user: js
+## PIN: 1111
